@@ -52,7 +52,7 @@ Machine Learning and AI developer, Sound and Music enthusiast. MSc Sound and Mus
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbadenas&theme=dark&hide=jupyter notebook"></a>
 </p>
 
-<h2 align='center'>💻MyWorkspace</h2>
+<h2 align='center'>💻My Workspace</h2>
 <p align='center'>
     <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
     <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black'>
