@@ -32,9 +32,6 @@ Machine Learning and AI developer, Sound and Music enthusiast. MSc Sound and Mus
 
 </details>
 
-
-
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vbadenas&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
