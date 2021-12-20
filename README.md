@@ -32,6 +32,18 @@ Machine Learning and AI developer, Sound and Music enthusiast. MSc Sound and Mus
 
 </details>
 
+<details>
+    <summary>Packages and Projects</summary>
+
+<p align='center'>
+    
+|package name|language|description|url|version|
+|---|---|---|---|---|
+|[frarch](https://github.com/vbadenas/frarch)|python|Training Framework for Pytorch Experiments|https://pypi.org/project/frarch/|<a href=""><img src="https://img.shields.io/static/v1?label=frarch&message=v0.1.3&color=blue&style=flat&logo=python"></a>|
+
+</p>
+</details>
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vbadenas&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
@@ -48,15 +60,3 @@ Machine Learning and AI developer, Sound and Music enthusiast. MSc Sound and Mus
     <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img src='https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>
 </p>
-
-<details>
-    <summary>Packages and Projects</summary>
-
-<p align='center'>
-    
-|package name|language|description|url|version|
-|---|---|---|---|---|
-|[frarch](https://github.com/vbadenas/frarch)|python|Training Framework for Pytorch Experiments|https://pypi.org/project/frarch/|<a href=""><img src="https://img.shields.io/badge/frarch-v0.1.3-blue"></a>|
-
-</p>
-</details>
