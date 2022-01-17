@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-Machine Learning and AI developer, Sound and Music enthusiast. MSc Sound and Music Computing @ UPF and MSc in Artificial Intelligence @ FIB-UPC.
+Machine Learning and AI developer, Sound and Music enthusiast. MSc in Artificial Intelligence @ FIB-UPC and MSc Sound and Music Computing @ UPF.
 </p>
 
 <p align='center'>
