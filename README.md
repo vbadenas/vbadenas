@@ -49,7 +49,7 @@ Machine Learning and AI developer, Sound and Music enthusiast. MSc in Artificial
 </p>
 
 <p align='center'>
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbadenas&theme=dark&hide=jupyter notebook&layout=compact"></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbadenas&theme=dark&hide=jupyter notebook,TeX&layout=compact"></a>
 </p>
 
 <p align='center'>
