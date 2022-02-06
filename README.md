@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-Machine Learning and AI developer, Sound and Music enthusiast. MSc in Artificial Intelligence @ FIB-UPC and MSc Sound and Music Computing @ UPF.
+Machine Learning and AI developer, Sound and Music enthusiast.
 </p>
 
 <p align='center'>
@@ -24,10 +24,14 @@ Machine Learning and AI developer, Sound and Music enthusiast. MSc in Artificial
 <details>
     <summary>About Me</summary>
 
+- 💻 I am an AI Software Developer @ Midokura \[since Feb-2022\]
+- 🌱 I studied Artificial Intelligence and Deep Learning @ [FIB-UPC](https://www.fib.upc.edu/ca)<br>
+- 💻 I was a Junior Developer @ Verbio \[May-2019 - Jan-2022\]
+- 🌱 I studied Sound and Music Computing @ [MTG-UPF](https://www.upf.edu/web/mtg)<br>
+- 🌱 I studied Telecomunications Engineering @ [ETSETB-UPC](https://telecos.upc.edu/es)<br>
 - 🔭 I’m currently working on a framework for training models with pytorch called [frarch](https://github.com/vbadenas/frarch) along with my master thesis at HPAI-BSC.<br>
-- 🌱 I’m currently learning Deep Learning and Machine Learning @FIB-UPC.<br>
 - 🤔 In 2022 I hope to improve upon the repositories [DNNEffects](https://github.com/vbadenas/DNNEffects) & [frarch](https://github.com/vbadenas/frarch) to train models for emulating audio effects using DNNs.<br>
-- 💬 Ask me about deep learning, music and sound 😊🎵🔊📖<br>
+- 💬 Ask me about deep learning, music, image, video games and sound 😊🎵🔊📖<br>
 - 📫 How to reach me: [victor.badenas@gmail.com📧](mailto:victor.badenas@gmail.com)<br>
 
 </details>
