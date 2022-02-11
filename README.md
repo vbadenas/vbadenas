@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Hi there, I'm <a href="https://github.com/vbadenas">Victor Badenas</a> 👋
+    Hi there, I'm <a href="https://github.com/victorbadenas">Victor Badenas</a> 👋
 </h1>
 
 <p align='center'>
@@ -16,7 +16,7 @@ Machine Learning and AI developer, Sound and Music enthusiast.
   <a href="https://twitter.com/pirulok02">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/vbadenas">
+  <a href="https://github.com/victorbadenas">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp; 
 </p>
@@ -29,8 +29,8 @@ Machine Learning and AI developer, Sound and Music enthusiast.
 - 💻 I was a Junior Developer @ Verbio \[May-2019 - Jan-2022\]
 - 🌱 I studied Sound and Music Computing @ [MTG-UPF](https://www.upf.edu/web/mtg)<br>
 - 🌱 I studied Telecomunications Engineering @ [ETSETB-UPC](https://telecos.upc.edu/es)<br>
-- 🔭 I’m currently working on a framework for training models with pytorch called [frarch](https://github.com/vbadenas/frarch) along with my master thesis at HPAI-BSC.<br>
-- 🤔 In 2022 I hope to improve upon the repositories [DNNEffects](https://github.com/vbadenas/DNNEffects) & [frarch](https://github.com/vbadenas/frarch) to train models for emulating audio effects using DNNs.<br>
+- 🔭 I’m currently working on a framework for training models with pytorch called [frarch](https://github.com/victorbadenas/frarch) along with my master thesis at HPAI-BSC.<br>
+- 🤔 In 2022 I hope to improve upon the repositories [DNNEffects](https://github.com/victorbadenas/DNNEffects) & [frarch](https://github.com/victorbadenas/frarch) to train models for emulating audio effects using DNNs.<br>
 - 💬 Ask me about deep learning, music, image, video games and sound 😊🎵🔊📖<br>
 - 📫 How to reach me: [victor.badenas@gmail.com📧](mailto:victor.badenas@gmail.com)<br>
 
@@ -43,21 +43,21 @@ Machine Learning and AI developer, Sound and Music enthusiast.
     
 |package name|language|description|url|version|
 |---|---|---|---|---|
-|[frarch](https://github.com/vbadenas/frarch)|python|Training Framework for Pytorch Experiments|https://pypi.org/project/frarch/|<a href=""><img src="https://img.shields.io/static/v1?label=frarch&message=v0.1.3&color=blue&style=flat&logo=python"></a>|
+|[frarch](https://github.com/victorbadenas/frarch)|python|Training Framework for Pytorch Experiments|https://pypi.org/project/frarch/|<a href=""><img src="https://img.shields.io/static/v1?label=frarch&message=v0.1.3&color=blue&style=flat&logo=python"></a>|
 
 </p>
 </details>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vbadenas&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=victorbadenas&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbadenas&theme=dark&hide=jupyter notebook,TeX&layout=compact"></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbadenas&theme=dark&hide=jupyter notebook,TeX&layout=compact"></a>
 </p>
 
 <p align='center'>
-  <a href=""><img src="https://activity-graph.herokuapp.com/graph?username=vbadenas&theme=github"></a>
+  <a href=""><img src="https://activity-graph.herokuapp.com/graph?username=victorbadenas&theme=github"></a>
 </p>
 
 <h2 align='center'>💻My Workspace</h2>
