@@ -18,11 +18,10 @@ Machine Learning and AI developer, Sound and Music enthusiast.
   </a>&nbsp;&nbsp;
   <a href="https://github.com/victorbadenas">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp; 
+  </a>&nbsp;&nbsp;
 </p>
 
-<details>
-    <summary>About Me</summary>
+<h2>About Me</h2>
 
 - 💻 I am an AI Software Developer @ [Midokura](https://www.midokura.com/) [Feb-2022 - Now]
 - 🌱 I studied Artificial Intelligence and Deep Learning @ [FIB-UPC](https://www.fib.upc.edu/ca)<br>
@@ -33,20 +32,6 @@ Machine Learning and AI developer, Sound and Music enthusiast.
 - 🤔 In 2022 I hope to improve upon the repositories [DNNEffects](https://github.com/victorbadenas/DNNEffects) & [frarch](https://github.com/victorbadenas/frarch) to train models for emulating audio effects using DNNs.<br>
 - 💬 Ask me about deep learning, music, image, video games and sound 😊🎵🔊📖<br>
 - 📫 How to reach me: [victor.badenas@gmail.com📧](mailto:victor.badenas@gmail.com)<br>
-
-</details>
-
-<details>
-    <summary>Packages and Projects</summary>
-
-<p align='center'>
-    
-|package name|language|description|url|version|
-|---|---|---|---|---|
-|[frarch](https://github.com/victorbadenas/frarch)|python|Training Framework for Pytorch Experiments|https://pypi.org/project/frarch/|<a href=""><img src="https://img.shields.io/static/v1?label=frarch&message=v0.1.3&color=blue&style=flat&logo=python"></a>|
-
-</p>
-</details>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=victorbadenas&show_icons=true&count_private=true&theme=dark" width="350"></a>
@@ -67,4 +52,14 @@ Machine Learning and AI developer, Sound and Music enthusiast.
     <img src='https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=black'>
     <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img src='https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>
+</p>
+
+<h2 align='center'>Packages and Projects</h2>
+
+<p align='center'>
+    
+|package name|language|description|url|version|
+|---|---|---|---|---|
+|[frarch](https://github.com/victorbadenas/frarch)|python|Training Framework for Pytorch Experiments|https://pypi.org/project/frarch/|<a href=""><img src="https://img.shields.io/static/v1?label=frarch&message=v0.1.3&color=blue&style=flat&logo=python"></a>|
+
 </p>
