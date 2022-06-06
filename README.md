@@ -60,6 +60,6 @@ Machine Learning and AI developer, Sound and Music enthusiast.
     
 |package name|language|description|url|version|
 |---|---|---|---|---|
-|[frarch](https://github.com/victorbadenas/frarch)|python|Training Framework for Pytorch Experiments|https://pypi.org/project/frarch/|<a href=""><img src="https://img.shields.io/static/v1?label=frarch&message=v0.1.3&color=blue&style=flat&logo=python"></a>|
+|[frarch](https://github.com/victorbadenas/frarch)|python|Training Framework for Pytorch Experiments|https://pypi.org/project/frarch/|<a href=""><img src="https://img.shields.io/static/v1?label=frarch&message=v0.1.5&color=blue&style=flat&logo=python"></a>|
 
 </p>
