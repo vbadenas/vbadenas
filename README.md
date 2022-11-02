@@ -28,8 +28,7 @@ Machine Learning and AI developer, Sound and Music enthusiast.
 - 💻 I was a Junior Developer @ [Verbio](https://www.verbio.com/) [May-2019 - Jan-2022]
 - 🌱 I studied Sound and Music Computing @ [MTG-UPF](https://www.upf.edu/web/mtg)<br>
 - 🌱 I studied Telecomunications Engineering @ [ETSETB-UPC](https://telecos.upc.edu/es)<br>
-- 🔭 I’m currently working on a framework for training models with pytorch called [frarch](https://github.com/victorbadenas/frarch) along with my master thesis at HPAI-BSC.<br>
-- 🤔 In 2022 I hope to improve upon the repositories [DNNEffects](https://github.com/victorbadenas/DNNEffects) & [frarch](https://github.com/victorbadenas/frarch) to train models for emulating audio effects using DNNs.<br>
+- 🔭 I’m currently working on a [frarch](https://github.com/victorbadenas/frarch); a framework for training pytorch models.<br>
 - 💬 Ask me about deep learning, music, image, video games and sound 😊🎵🔊📖<br>
 - 📫 How to reach me: [victor.badenas@gmail.com📧](mailto:victor.badenas@gmail.com)<br>
 
