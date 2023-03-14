@@ -40,10 +40,6 @@ Machine Learning and AI developer, Sound and Music enthusiast.
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbadenas&theme=dark&hide=jupyter notebook,TeX&layout=compact"></a>
 </p>
 
-<p align='center'>
-  <a href=""><img src="https://activity-graph.herokuapp.com/graph?username=victorbadenas&theme=github"></a>
-</p>
-
 <h2 align='center'>💻My Workspace</h2>
 <p align='center'>
     <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
