@@ -37,7 +37,7 @@ Machine Learning and AI developer, Sound and Music enthusiast.
 </p>
 
 <p align='center'>
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbadenas&theme=dark&hide=jupyter notebook,TeX&layout=compact"></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbadenas&theme=dark&hide=jupyter%20notebook,TeX&layout=compact"></a>
 </p>
 
 <h2 align='center'>💻My Workspace</h2>
