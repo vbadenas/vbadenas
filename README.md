@@ -28,7 +28,6 @@ Machine Learning and AI developer, Sound and Music enthusiast.
 - 🌱 I studied Artificial Intelligence and Deep Learning @ [FIB-UPC](https://www.fib.upc.edu/ca)<br>
 - 🌱 I studied Sound and Music Computing @ [MTG-UPF](https://www.upf.edu/web/mtg)<br>
 - 🌱 I studied Telecommunications Engineering @ [ETSETB-UPC](https://telecos.upc.edu/es)<br>
-- 🔭 I’m currently working on a [frarch](https://github.com/victorbadenas/frarch); a framework for training pytorch models.<br>
 - 💬 Ask me about deep learning, music, image, video games and sound 😊🎵🔊📖<br>
 - 📫 How to reach me: [victor.badenas@gmail.com📧](mailto:victor.badenas@gmail.com)<br>
 
