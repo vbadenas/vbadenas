@@ -23,8 +23,8 @@ Machine Learning and AI developer, Sound and Music enthusiast.
 
 <h2>About Me</h2>
 
-- 💻 I was an AI Engineer @ [Midokura](https://www.midokura.com/) [Feb-2022 - Nov-2023]
-- 💻 I was an AI Engineer @ [Verbio](https://www.verbio.com/) [May-2019 - Jan-2022]
+- 💻 I was an AI Engineer @ [Midokura](https://www.midokura.com/) [Feb2022 - Nov2023]
+- 💻 I was an AI Engineer @ [Verbio](https://www.verbio.com/) [May2019 - Feb2022]
 - 🌱 I studied Artificial Intelligence and Deep Learning @ [FIB-UPC](https://www.fib.upc.edu/ca)<br>
 - 🌱 I studied Sound and Music Computing @ [MTG-UPF](https://www.upf.edu/web/mtg)<br>
 - 🌱 I studied Telecommunications Engineering @ [ETSETB-UPC](https://telecos.upc.edu/es)<br>
