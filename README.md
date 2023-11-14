@@ -41,11 +41,11 @@ Machine Learning and AI developer, Sound and Music enthusiast.
 
 <h2 align='center'>💻My Workspace</h2>
 <p align='center'>
-    <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
-    <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black'>
-    <img src='https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=black'>
+    <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>
+    <img src='https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white'>
+    <img src='https://img.shields.io/badge/AMD-Ryzen_7_7840HS-ED1C24?style=for-the-badge&logo=amd&logoColor=black'>
     <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-    <img src='https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>
+    <img src='https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>
 </p>
 
 <h2 align='center'>Packages and Projects</h2>
@@ -54,6 +54,6 @@ Machine Learning and AI developer, Sound and Music enthusiast.
     
 |package name|language|description|url|version|
 |---|---|---|---|---|
-|[frarch](https://github.com/victorbadenas/frarch)|python|Training Framework for Pytorch Experiments|https://pypi.org/project/frarch/|<a href=""><img src="https://img.shields.io/static/v1?label=frarch&message=v0.1.5&color=blue&style=flat&logo=python"></a>|
+|[frarch](https://github.com/victorbadenas/frarch)|python|Training Framework for Pytorch Experiments|https://pypi.org/project/frarch/|<a href=""><img src="https://img.shields.io/static/v1?label=frarch&message=v0.1.6&color=blue&style=flat&logo=python"></a>|
 
 </p>
