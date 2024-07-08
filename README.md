@@ -23,7 +23,7 @@ Machine Learning and AI developer, Sound and Music enthusiast.
 
 <h2>About Me</h2>
 
-- 💻 I am a Senior MLOps Engineer @ [SITA](https://www.sita.aero/) [Nov2023 - Present]
+- 💻 I am an AI Tech Lead @ [SITA](https://www.sita.aero/) [Nov2023 - Present]
 - 💻 I was an AI Engineer @ [Midokura](https://www.midokura.com/) [Feb2022 - Nov2023]
 - 💻 I was an AI Engineer @ [Verbio](https://www.verbio.com/) [May2019 - Feb2022]
 - 🌱 I studied Artificial Intelligence and Deep Learning @ [FIB-UPC](https://www.fib.upc.edu/ca)<br>
